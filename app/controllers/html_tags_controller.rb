@@ -1,0 +1,2 @@
+class HtmlTagsController < ApplicationController
+end

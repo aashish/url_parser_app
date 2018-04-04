@@ -1,0 +1,2 @@
+module HtmlTagsHelper
+end
