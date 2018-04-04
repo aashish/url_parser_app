@@ -1,2 +1,2 @@
-rvm use --create 2.4.1@lim_app
+rvm use --create 2.4.1@url_parser_app
 

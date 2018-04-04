@@ -10,12 +10,12 @@ Implemented with jsonapi_resources gem (https://github.com/cerebris/jsonapi-reso
 
 Download with git
 ```
-git clone https://github.com/aashish/lim_app.git
+git clone https://github.com/aashish/url_parser_app.git
 ```
 scope to project folder
 
 ```
-$ cd lim_app
+$ cd url_parser_app
 ```
 
 run bundle
@@ -666,7 +666,7 @@ Formatted Json Response:
 
 ## Contributing
 
-1. Fork it ( https://github.com/aashish/lim_app/fork )
+1. Fork it ( https://github.com/aashish/url_parser_app/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
